@@ -49,13 +49,4 @@ The Movie Clips Angular Web Project is a modern web application designed to prov
 - Trim and edit video clips using the WebAssembly-powered video editing features.
 - Create and manage your watchlists and collections.
 
-## Contributing
-
-If you would like to contribute to the development of this project, follow these steps:
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Submit a pull request.
-
 
